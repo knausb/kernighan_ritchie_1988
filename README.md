@@ -8,7 +8,7 @@ Code can be compiled with:
 
     gcc hello.c
 
-where 'hello.c' is the name of the file containing code.  This should result in an executable names 'a.out.'
+where 'hello.c' is the name of the file containing code.  This should result in an executable named 'a.out.'
 
 If you want to name your outfile try:
 
