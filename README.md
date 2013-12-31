@@ -14,4 +14,4 @@ If you want to name your outfile try:
 
     gcc hello.c -o hello
 
-# EOF
+###### EOF
